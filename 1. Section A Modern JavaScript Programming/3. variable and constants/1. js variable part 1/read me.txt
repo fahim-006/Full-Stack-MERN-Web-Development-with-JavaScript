@@ -1,0 +1,4 @@
+declaring variable using let and var
+
+material: 
+Reference Link: https://medium.com/@ethannam/javascripts-memory-model-7c972cd2c239

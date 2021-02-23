@@ -1,0 +1,1 @@
+A separate js file will be created which will be worked with html file.
