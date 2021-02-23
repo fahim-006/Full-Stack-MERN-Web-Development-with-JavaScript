@@ -1,4 +1,0 @@
-how to use constants and keywords..check nodejs nodebook
-
-Material:
-Reference Link: https://www.w3schools.in/javascript-tutorial/keywords/
