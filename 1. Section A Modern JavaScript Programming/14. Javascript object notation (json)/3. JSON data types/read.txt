@@ -1,0 +1,3 @@
+JSON doesnt suppport undefined, date and function
+
+ALLOW: string, number. object

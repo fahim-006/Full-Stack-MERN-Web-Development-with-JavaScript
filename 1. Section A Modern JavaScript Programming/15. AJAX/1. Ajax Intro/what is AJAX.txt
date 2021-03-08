@@ -1,0 +1,5 @@
+AJAX: asynchronous js and xml
+
+if there are two function test() and test2():-
+test2() will not execute if test() is executing ot test() takes time to execute.
+AJAX helps to do the work simultanously.

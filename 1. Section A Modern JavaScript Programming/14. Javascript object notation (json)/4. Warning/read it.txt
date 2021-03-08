@@ -1,0 +1,1 @@
+If we write JSON code in javascript, it will be treated as javascript object

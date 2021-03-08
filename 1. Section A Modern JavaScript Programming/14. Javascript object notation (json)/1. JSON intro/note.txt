@@ -1,0 +1,6 @@
+object:
+
+{name: Mashrur, age: "24"};
+
+JSON DATA:
+{"NAME" : "Mashrur", "Age": 25};
