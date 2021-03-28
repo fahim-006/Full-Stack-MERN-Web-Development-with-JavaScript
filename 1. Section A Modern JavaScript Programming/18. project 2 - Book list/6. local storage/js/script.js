@@ -84,6 +84,7 @@ class Store {
     }
 
     static removeBook(isbn) {
+        console.log(isbn);
         let books = Store.getBooks();
 
         books.forEach((book, index) => {
