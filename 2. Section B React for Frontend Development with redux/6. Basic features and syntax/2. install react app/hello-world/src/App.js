@@ -1,9 +1,14 @@
 import React, { Component } from 'react';
 import './App.css';
 import MainComponent from './components/MainComponents'
+import {BrowserRouter} from 'react-router-dom'
 
 const App = () => {
-  return <MainComponent/>
+  return(
+    <BrowserRouter>
+      <MainComponent/>
+    </BrowserRouter>
+  ) 
 }
 
 

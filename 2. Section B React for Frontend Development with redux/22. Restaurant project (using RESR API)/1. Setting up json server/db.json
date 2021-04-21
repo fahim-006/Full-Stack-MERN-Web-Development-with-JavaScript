@@ -1,0 +1,88 @@
+{
+  "dishes": [
+    {
+      "id": 0,
+      "name": "Ginger Burger",
+      "image": "assets/images/0burger.jpg",
+      "category": "meal",
+      "label": "Hot",
+      "price": "199",
+      "featured": true,
+      "description": "This chicken burger gets an Asian-flavor twist with ginger and garlic. It's topped off with a fabulous coleslaw. If you like, serve the coleslaw as a side for grilled items, like chicken breasts, fish fillets or chops"
+    }
+  ],
+  "comments": [
+    {
+      "dishId": 0,
+      "id": 0,
+      "rating": 5,
+      "comment": "Imagine all the eatables, living in conFusion!",
+      "author": "Shanto",
+      "date": "2018-10-16T17:57:28.556094Z"
+    },
+    {
+      "dishID": 0,
+      "author": "Mashrur",
+      "rating": "3",
+      "comment": "nor bad",
+      "date": "2021-04-20T15:32:31.702Z",
+      "id": 1
+    },
+    {
+      "dishID": 0,
+      "author": "Mashrur",
+      "rating": "3",
+      "comment": "not bad",
+      "date": "2021-04-20T15:32:59.573Z",
+      "id": 2
+    },
+    {
+      "dishID": 0,
+      "author": "Mashrur1",
+      "rating": "4",
+      "comment": "good",
+      "date": "2021-04-20T15:37:55.850Z",
+      "id": 3
+    },
+    {
+      "dishId": 0,
+      "author": "Mashrur",
+      "rating": "3",
+      "comment": "fghj",
+      "date": "2021-04-20T15:48:43.816Z",
+      "id": 4
+    }
+  ],
+  "feedback": [
+    {
+      "firstname": "Mashrur",
+      "lastname": "khan",
+      "telnum": "01952500488",
+      "email": "khanmashrur03@gmail.com",
+      "agree": true,
+      "contactType": "Tel.",
+      "message": "JOSS JOSS",
+      "id": 1
+    },
+    {
+      "firstname": "sabiha tasnim",
+      "lastname": "Nishy",
+      "telnum": "01952500488",
+      "email": "khanmashrur03@gmail.com",
+      "agree": false,
+      "contactType": "Tel.",
+      "message": "hehehehehe",
+      "id": 2
+    },
+    {
+      "firstname": "nishat jahan",
+      "lastname": "nishi",
+      "telnum": "015685465546",
+      "email": "khanmashrur08@gmail.com",
+      "agree": false,
+      "contactType": "Tel.",
+      "message": "jossssssssss",
+      "id": 3
+    }
+  ]
+}
