@@ -1,0 +1,10 @@
+see blog notes and burger builder full project 23-> main full project.
+To deploy i made a copy here with a fresh react app
+
+	As we have use create-react-app, we have to remoce it by typing in terminal: npm uninstall create-react-app –g
+	For next time use npx create-react-app project_name or npm init react-app
+	Create a fresh app in a new folder. 
+	Replace the new src folder with the old one.
+	Remove all dependencies from new pakage.json file and copy-paste the old dependencies.
+	Now install all dependences: npm install
+	Now deploy: npm run build
