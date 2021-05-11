@@ -1,0 +1,2 @@
+https://jsonplaceholder.typicode.com/
+https://docs.github.com/en/

@@ -1,0 +1,5 @@
+Justify content: https://www.w3schools.com/cssref/css3_pr_justify-content.asp
+flex: https://www.w3schools.com/cssref/css3_pr_flex.asp
+How to style react native?
+-	Inline css 
+-	Internal css  

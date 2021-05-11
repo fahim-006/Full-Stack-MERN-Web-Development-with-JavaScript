@@ -1,0 +1,6 @@
+Go to: https://reactnative.dev/docs/environment-setup
+Those who have the idea of android/ IOS, they can use react native CLI quickstart. Others can use EXPO CLI quickstart. 
+-	Expo CLI is the easier way. 
+-	npm install –g expo-cli
+-	expo init AwesomeProject
+-	open in VScode

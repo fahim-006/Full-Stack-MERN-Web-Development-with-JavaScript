@@ -9,7 +9,18 @@
       "price": "199",
       "featured": true,
       "description": "This chicken burger gets an Asian-flavor twist with ginger and garlic. It's topped off with a fabulous coleslaw. If you like, serve the coleslaw as a side for grilled items, like chicken breasts, fish fillets or chops"
+    },
+    {
+      "id": 1,
+      "name": "Ginger Burger",
+      "image": "assets/images/0burger.jpg",
+      "category": "meal",
+      "label": "Hot",
+      "price": "199",
+      "featured": true,
+      "description": "This chicken burger gets an Asian-flavor twist with ginger and garlic. It's topped off with a fabulous coleslaw. If you like, serve the coleslaw as a side for grilled items, like chicken breasts, fish fillets or chops"
     }
+    
   ],
   "comments": [
     {
