@@ -11,4 +11,4 @@ SECTION B:
 3. photo gallery - ongoing
 
 SECTION C:
-1. HELLO WORLD - (Ongoing)
+1. HELLO WORLD - done but should be hosted
